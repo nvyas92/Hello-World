@@ -1,2 +1,4 @@
 # Hello-World
-This is my first repository
+
+Hello! I like food, coffee, minions, friends, bbt, sports, dancing, music and more.
+
